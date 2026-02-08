@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NutriFit.Api",
+    "\\NutriFit.Api\\NutriFit.Api",
+    "\\NutriFit.Api\\NutriFit.Api\\bin",
+    "\\NutriFit.Api\\NutriFit.Api\\Data",
+    "\\NutriFit.Api\\NutriFit.Api\\DTOs",
+    "\\NutriFit.Api\\NutriFit.Api\\Migrations",
+    "\\NutriFit.Api\\NutriFit.Api\\Models",
+    "\\NutriFit.Api\\NutriFit.Api\\obj\\Debug"
+  ],
+  "SelectedNode": "\\NutriFit.Api\\NutriFit.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
